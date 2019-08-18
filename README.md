@@ -4,6 +4,10 @@ This project is to get Google drive link on samehadaku.tv - Indonesia Anime Fans
 
 Prerequisite:
 
+> First of all clone this repository : 
+
+    > git clone https://github.com/rootdavinalfa/SamehadakuLinkGet.git
+Then you will need these
  1. Python3+
  2. BeautifulSoup Library, just `pip install BeautifulSoup`
  3. Selenium library `pip install selenium`
@@ -13,6 +17,8 @@ Prerequisite:
 
 Just get samehadaku.tv link ,and copy the url/link and type`python downloader.py` on your beloved💗 console to run python file then paste at console and follow on screen instruction.
 **Currently just Windows**
+
+> **Example url provided on screen instruction**
 
 ## Contribute:
 
