@@ -3,10 +3,11 @@
 This project is to get Google drive link on samehadaku.tv - Indonesia Anime Fansub to download anime ,etc
 
 Prerequisite:
-1.Python3+
-2.BeautifulSoup Library, just `pip install BeautifulSoup`
-3.Selenium library `pip install selenium`
-4. urllib
+
+ 1. Python3+
+ 2. BeautifulSoup Library, just `pip install BeautifulSoup`
+ 3. Selenium library `pip install selenium`
+ 4. urllib
 
 ## **How to Use:**
 
