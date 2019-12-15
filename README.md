@@ -1,3 +1,4 @@
+## **Obselete.Please don't USE THIS**
 ## **Samehadaku Google Drive Link Getter**
 
 This project is to get Google drive link on samehadaku.tv - Indonesia Anime Fansub to download anime ,etc
